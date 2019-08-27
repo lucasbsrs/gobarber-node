@@ -7,7 +7,7 @@ module.exports = {
   port: '5433',
   define: {
     timestamp: true,
-    undercored: true,
-    undercoredAll: true,
+    underscored: true,
+    undersoredAll: true,
   },
 };
